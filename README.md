@@ -1,5 +1,4 @@
 ### Hi I'm Nafiz 👋
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nbayrakk)](https://git.io/awesome-stats-card)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nbayrakk&layout=compact)](https://github.com/nbayrakk/github-readme-stats)
 
 <a href="https://www.instagram.com/nbayrakk/">
